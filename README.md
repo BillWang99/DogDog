@@ -1,14 +1,7 @@
-# DogDog
+# DogDog 好運狗狗
 
-This template should help get you started developing with Vue 3 in Vite.
+純屬娛樂的小專案，主要目的為練習介接他人提供的API，快來尋找你的好運狗狗吧!
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
